@@ -1,42 +1,42 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
+title: SUNFLOWER SUTRA
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+I WALKED ON THE BANKS OF THE TINCAN BANANA DOCK AND SAT DOWN UNDER THE HUGE SHADE OF A SOUTHERN PACIFIC LOCOMOTIVE TO LOOK FOR THE SUNSET OVER THE BOX HOUSE HILLS AND CRY.
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+JACK KEROUAC SAT BESIDE ME ON A BUSTED RUSTY IRON POLE, COMPANION, WE THOUGHT THE SAME THOUGHTS OF THE SOUL, BLEAK AND BLUE AND SAD-EYED, SURROUNDED BY THE GNARLED STEEL ROOTS OF TREES OF MACHINERY.
 
 ![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+THE ONLY WATER ON THE RIVER MIRRORED THE RED SKY, SUN SANK ON TOP OF FINAL FRISCO PEAKS, NO FISH IN THAT STREAM, NO HERMIT IN THOSE MOUNTS, JUST OURSELVES RHEUMY-EYED AND HUNG-OVER LIKE OLD BUMS ON THE RIVERBANK, TIRED AND WILY.
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+LOOK AT THE SUNFLOWER, HE SAID, THERE WAS A DEAD GRAY SHADOW AGAINST THE SKY, BIG AS A MAN, SITTING DRY ON TOP OF A PILE OF ANCIENT SAWDUST–
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+\--I RUSHED UP ENCHANTED–IT WAS MY FIRST SUNFLOWER, MEMORIES OF BLAKE–MY VISIONS–HARLEM
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+# “THE GRAY SUNFLOWER POISED AGAINST THE SUNSET, CRACKLY BLEAK AND DUSTY WITH THE SMUT AND SMOG AND SMOKE OF OLDEN LOCOMOTIVES IN ITS EYE”
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+AND HELLS OF THE EASTERN RIVERS, BRIDGES CLANKING JOES GREASY SANDWICHES, DEAD BABY CARRIAGES, BLACK TREADLESS TIRES FORGOTTEN AND UNRETREADED, THE POEM OF THE RIVERBANK, CONDOMS & POTS, STEEL KNIVES, NOTHING STAINLESS, ONLY THE DANK MUCK AND THE RAZOR-SHARP ARTIFACTS PASSING INTO THE PAST–
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+AND THE GRAY SUNFLOWER POISED AGAINST THE SUNSET, CRACKLY BLEAK AND DUSTY WITH THE SMUT AND SMOG AND SMOKE OF OLDEN LOCOMOTIVES IN ITS EYE–
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+COROLLA OF BLEARY SPIKES PUSHED DOWN AND BROKEN LIKE A BATTERED CROWN, SEEDS FALLEN OUT OF ITS FACE, SOON-TO-BE-TOOTHLESS MOUTH OF SUNNY AIR, SUNRAYS OBLITERATED ON ITS HAIRY HEAD LIKE A DRIED WIRE SPIDERWEB,
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+LEAVES STUCK OUT LIKE ARMS OUT OF THE STEM, GESTURES FROM THE SAWDUST ROOT, BROKE PIECES OF PLASTER FALLEN OUT OF THE BLACK TWIGS, A DEAD FLY IN ITS EAR,
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+UNHOLY BATTERED OLD THING YOU WERE, MY SUNFLOWER O MY SOUL, I LOVED YOU THEN!
 
 ![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
 
-The grime was no man’s grime but death and human locomotives,
+THE GRIME WAS NO MAN’S GRIME BUT DEATH AND HUMAN LOCOMOTIVES,
 
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
+ALL THAT DRESS OF DUST, THAT VEIL OF DARKENED RAILROAD SKIN, THAT SMOG OF CHEEK, THAT EYELID OF BLACK MIS’RY, THAT SOOTY HAND OR PHALLUS OR PROTUBERANCE OF ARTIFICIAL WORSE-THAN-DIRT–INDUSTRIAL–MODERN–ALL THAT CIVILIZATION SPOTTING YOUR CRAZY GOLDEN CROWN–
 
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
+AND THOSE BLEAR THOUGHTS OF DEATH AND DUSTY LOVELESS EYES AND ENDS AND WITHERED ROOTS BELOW, IN THE HOME-PILE OF SAND AND SAWDUST, RUBBER DOLLAR BILLS, SKIN OF MACHINERY, THE GUTS AND INNARDS OF THE WEEPING COUGHING CAR, THE EMPTY LONELY TINCANS WITH THEIR RUSTY TONGUES ALACK, WHAT MORE COULD I NAME, THE SMOKED ASHES OF SOME COCK CIGAR, THE CUNTS OF WHEELBARROWS AND THE MILKY BREASTS OF CARS, WORNOUT ASSES OUT OF CHAIRS & SPHINCTERS OF DYNAMOS–ALL THESE
 
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
+ENTANGLED IN YOUR MUMMIED ROOTS–AND YOU STANDING BEFORE ME IN THE SUNSET, ALL YOUR GLORY IN YOUR FORM!
 
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+A PERFECT BEAUTY OF A SUNFLOWER! A PERFECT EXCELLENT LOVELY SUNFLOWER EXISTENCE! A SWEET NATURAL EYE TO THE NEW HIP MOON, WOKE UP ALIVE AND EXCITED GRASPING IN THE SUNSET SHADOW SUNRISE GOLDEN MONTHLY BREEZE!
