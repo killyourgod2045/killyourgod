@@ -1,8 +1,14 @@
 @font-face {
-  font-family: "Arial MT Pro";
-  src: url("styles/fonts/ArialMTPro-Medium.woff2") format("woff2"),
-  src: url("styles/fonts/ArialMtPro-Medium.woff") format("woff");
-  font-display: swap;
+    font-family: 'Arial MT Pro';
+    src: url('src/styles/fonts/ArialMTPro-Medium.eot');
+    src: url('src/styles/fonts/ArialMTPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('src/styles/fonts/ArialMTPro-Medium.woff2') format('woff2'),
+        url('src/styles/fonts/ArialMTPro-Medium.woff') format('woff'),
+        url('src/styles/fonts/ArialMTPro-Medium.ttf') format('truetype'),
+        url('src/styles/fonts/ArialMTPro-Medium.svg#ArialMTPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
 }
 
 body {
