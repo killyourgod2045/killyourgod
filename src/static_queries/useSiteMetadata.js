@@ -10,7 +10,6 @@ export default function useSiteMetadata() {
           repoUrl
           infoData {
             contact {
-              shop
               instagram_handle
               discord_handle
               reddit_handle
