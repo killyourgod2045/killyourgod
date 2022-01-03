@@ -27,14 +27,14 @@ fields:
   label: contact
   fields:
   - type: text
-    name: email
-    label: email
+    name: instagram_handle
+    label: instagram_handle
   - type: text
     name: twitter_handle
     label: twitter_handle
   - type: text
-    name: instagram_handle
-    label: instagram_handle
+    name: email
+    label: email
 - name: background_color
   type: color
   label: background_color
