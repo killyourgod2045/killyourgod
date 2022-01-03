@@ -10,9 +10,17 @@ export default function useSiteMetadata() {
           repoUrl
           infoData {
             contact {
-              email
-              github_handle
+              shop
+              instagram_handle
+              discord_handle
+              reddit_handle
               twitter_handle
+              rarible_handle
+              opensea_handle
+              soundcloud_handle
+              youtube_handle
+              depop_handle
+              email
             }
             cta
             description
