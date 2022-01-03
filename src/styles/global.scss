@@ -1,7 +1,8 @@
 @font-face {
   font-family: "Arial MT Pro";
-  src: url("styles/fonts/ArialMTPro-Medium.woff") format("woff"),
-  src: url("/styles/fonts/ArialMtPro-Medium.woff2") format("woff2")
+  src: url("styles/fonts/ArialMTPro-Medium.woff2") format("woff2"),
+  src: url("styles/fonts/ArialMtPro-Medium.woff") format("woff");
+  font-display: swap;
 }
 
 body {
