@@ -28,7 +28,8 @@ export default function Info() {
           <li>
             <p>
               <a href={`https://instagram.com/${infoData.contact.instagram_handle}`}>
-                Instagram: @{infoData.contact.instagram_handle}</a>
+                Instagram: @{infoData.contact.instagram_handle}
+              </a>
             </p>
           </li>
         </ul>
