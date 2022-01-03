@@ -29,9 +29,44 @@ fields:
   - type: text
     name: instagram_handle
     label: instagram_handle
+  - name: discord_handle
+    type: text
+    config:
+      required: false
+    label: discord_handle
+  - name: reddit_handle
+    type: text
+    config:
+      required: false
+    label: reddit_handle
   - type: text
     name: twitter_handle
     label: twitter_handle
+  - name: rarible_handle
+    type: text
+    config:
+      required: false
+    label: rarible_handle
+  - name: opensea_handle
+    type: text
+    config:
+      required: false
+    label: opensea_handle
+  - name: soundcloud_handle
+    type: text
+    config:
+      required: false
+    label: soundcloud_handle
+  - name: youtube_handle
+    type: text
+    config:
+      required: false
+    label: youtube_handle
+  - name: depop_handle
+    type: text
+    config:
+      required: false
+    label: depop_handle
   - type: text
     name: email
     label: email
