@@ -13,38 +13,80 @@ export default function Info() {
           <div dangerouslySetInnerHTML={{__html: infoData.cta}}></div>
         </h2>
         <ul>
+            <li>
+            <p>
+              <a href={`https://killyourgod.ai/`}>
+                SHOP
+              </a>
+            </p>
+          </li>
           <li>
             <p>
               <a href={`https://instagram.com/${infoData.contact.instagram_handle}`}>
-                INSTAGRAM: @{infoData.contact.instagram_handle}
+                INSTAGRAM
               </a>
             </p>
           </li>
           <li>
             <p>
               <a href={`https://discord.gg/${infoData.contact.discord_handle}`}>
-                DISCORD: {infoData.contact.discord_handle}
+                DISCORD
               </a>
             </p>
           </li>
           <li>
             <p>
               <a href={`https://reddit.com/${infoData.contact.reddit_handle}`}>
-                REDDIT: @{infoData.contact.reddit_handle}
+                REDDIT
               </a>
             </p>
           </li>
           <li>
             <p>
               <a href={`https://twitter.com/${infoData.contact.twitter_handle}`}>
-                TWITTER: @{infoData.contact.twitter_handle}
+                TWITTER
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://rarible.com/${infoData.contact.rarible_handle}`}>
+                RARIBLE
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://opensea.io/${infoData.contact.opensea_handle}`}>
+                OPENSEA
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://soundcloud.com/${infoData.contact.soundcloud_handle}`}>
+                SOUNDCLOUD
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://youtube.com/${infoData.contact.youtube_handle}`}>
+                YOUTUBE
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://depop.com/${infoData.contact.depop_handle}`}>
+                DEPOP
               </a>
             </p>
           </li>
           <li>
             <p>
               <a href={`mailto:${infoData.contact.email}`}>
-                CONTACT: {infoData.contact.email}
+                CONTACT
               </a>
             </p>
           </li>
