@@ -5,8 +5,8 @@ import headerStyles from "../styles/components/header.module.scss"
 export default function Header(props) {
   return (
     <header
-      className={`${headerStyles.header} ${props.page === 'info' &&
-        headerStyles.info_page}`}
+      className={`${headerStyles.header} ${props.page === 'connect' &&
+        headerStyles.connect_page}`}
     >
       <nav
         className={headerStyles.header__nav}
