@@ -1,9 +1,9 @@
 {
   "description": "<p>connection through disconnection.</p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "cta": "<p></p>",
   "contact": {
     "instagram_handle": "killyourgod",
-    "discord_handle": "killyourgod:2045",
+    "discord_handle": "KG7vFTNpCj",
     "reddit_handle": "r/killyourgod",
     "twitter_handle": "killyourgod2045",
     "rarible_handle": "killyourgod",
@@ -13,5 +13,5 @@
     "depop_handle": "killyourgod2045",
     "email": "info@killyourgod.ai"
   },
-  "background_color": "#121212"
+  "background_color": "#FFFFFF"
 }
