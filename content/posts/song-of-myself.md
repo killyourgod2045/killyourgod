@@ -1,31 +1,24 @@
 ---
-date: 2019-07-22T22:44:38Z
-title: Song of Myself
+date: 2019-07-22T22:44:38.000+00:00
+title: SONG OF MYSELF
 author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---
-I have heard what the talkers were talking, the talk of the  
- beginning and the end
+I HAVE HEARD WHAT THE TALKERS WERE TALKING, THE TALK OF THEBEGINNING AND THE END
 
-But I do not talk of the beginning or the end. There was never any more inception than there is now, Nor any more youth or age than there is now, And will never be any more perfection than there is now,  
- Nor any more heaven or hell than there is now.
+BUT I DO NOT TALK OF THE BEGINNING OR THE END. THERE WAS NEVER ANY MORE INCEPTION THAN THERE IS NOW, NOR ANY MORE YOUTH OR AGE THAN THERE IS NOW, AND WILL NEVER BE ANY MORE PERFECTION THAN THERE IS NOW,NOR ANY MORE HEAVEN OR HELL THAN THERE IS NOW.
 
-Urge and urge and urge, Always the procreant urge of the world.  
- Out of the dimness opposite equals advance, always substance and  
- increase, Always a knit of identity, always distinction, always a breed of life. To elaborate is no avail, learn’d and unlearn’d feel that it is  
- so.
+URGE AND URGE AND URGE, ALWAYS THE PROCREANT URGE OF THE WORLD.OUT OF THE DIMNESS OPPOSITE EQUALS ADVANCE, ALWAYS SUBSTANCE ANDINCREASE, ALWAYS A KNIT OF IDENTITY, ALWAYS DISTINCTION, ALWAYS A BREED OF LIFE. TO ELABORATE IS NO AVAIL, LEARN’D AND UNLEARN’D FEEL THAT IT ISSO.
 
-Clear and sweet is my soul, and clear and sweet is all that is not my soul.
+CLEAR AND SWEET IS MY SOUL, AND CLEAR AND SWEET IS ALL THAT IS NOT MY SOUL.
 
 ![](/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
 
-Lack one lacks both, and the unseen is proved by the seen,  
- Till that becomes unseen and receives proof in its turn.
+LACK ONE LACKS BOTH, AND THE UNSEEN IS PROVED BY THE SEEN,TILL THAT BECOMES UNSEEN AND RECEIVES PROOF IN ITS TURN.
 
-Showing the best and dividing it from the worst age vexes age,  
- Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe and admire myself.
+SHOWING THE BEST AND DIVIDING IT FROM THE WORST AGE VEXES AGE,KNOWING THE PERFECT FITNESS AND EQUANIMITY OF THINGS, WHILE THEY DISCUSS I AM SILENT, AND GO BATHE AND ADMIRE MYSELF.
 
-Welcome is every organ and attribute of me, and of any man hearty and clean, Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
+WELCOME IS EVERY ORGAN AND ATTRIBUTE OF ME, AND OF ANY MAN HEARTY AND CLEAN, NOT AN INCH NOR A PARTICLE OF AN INCH IS VILE, AND NONE SHALL BE LESS FAMILIAR THAN THE REST.
 
-I am satisfied—I see, dance, laugh, sing; As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the peep of the day with stealthy tread. Leaving me baskets cover’d with white towels swelling the house with their plenty, Shall I postpone my acceptation and realization and scream at my eyes, That they turn from gazing after and down the road, And forthwith cipher and show me to a cent, Exactly the value of one and exactly the value of two, and which is ahead?
+I AM SATISFIED—I SEE, DANCE, LAUGH, SING; AS THE HUGGING AND LOVING BED-FELLOW SLEEPS AT MY SIDE THROUGH THE NIGHT, AND WITHDRAWS AT THE PEEP OF THE DAY WITH STEALTHY TREAD. LEAVING ME BASKETS COVER’D WITH WHITE TOWELS SWELLING THE HOUSE WITH THEIR PLENTY, SHALL I POSTPONE MY ACCEPTATION AND REALIZATION AND SCREAM AT MY EYES, THAT THEY TURN FROM GAZING AFTER AND DOWN THE ROAD, AND FORTHWITH CIPHER AND SHOW ME TO A CENT, EXACTLY THE VALUE OF ONE AND EXACTLY THE VALUE OF TWO, AND WHICH IS AHEAD?
