@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/data/info.json
+  path: content/data/connect.json
   label: CONNECT
 - type: directory
   path: content/posts
