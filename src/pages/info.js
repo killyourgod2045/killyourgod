@@ -15,20 +15,36 @@ export default function Info() {
         <ul>
           <li>
             <p>
-              <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://twitter.com/${infoData.contact.twitter_handle}`}>
-                Twitter: @{infoData.contact.twitter_handle}
+              <a href={`https://instagram.com/${infoData.contact.instagram_handle}`}>
+                INSTAGRAM: @{infoData.contact.instagram_handle}
               </a>
             </p>
           </li>
           <li>
             <p>
-              <a href={`https://instagram.com/${infoData.contact.instagram_handle}`}>
-                Instagram: @{infoData.contact.instagram_handle}
+              <a href={`https://discord.gg/${infoData.contact.discord_handle}`}>
+                DISCORD: {infoData.contact.discord_handle}
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://reddit.com/${infoData.contact.reddit_handle}`}>
+                REDDIT: @{infoData.contact.reddit_handle}
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`https://twitter.com/${infoData.contact.twitter_handle}`}>
+                TWITTER: @{infoData.contact.twitter_handle}
+              </a>
+            </p>
+          </li>
+          <li>
+            <p>
+              <a href={`mailto:${infoData.contact.email}`}>
+                CONTACT: {infoData.contact.email}
               </a>
             </p>
           </li>
