@@ -1,5 +1,5 @@
 ---
-label: Info Page
+label: Connect Page
 hide_body: true
 fields:
 - name: description
@@ -79,4 +79,4 @@ fields:
   description: Enter info page background color
   default: "#B1BCBC"
 pages:
-- content/data/info.json
+- content/data/connect.json
