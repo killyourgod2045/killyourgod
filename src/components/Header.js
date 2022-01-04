@@ -27,8 +27,8 @@ export default function Header(props) {
               activeClassName={headerStyles.navItemActive}
             >
               {props.page === 'info'
-                ? "close"
-                : "info"}
+                ? "disconnect"
+                : "connect"}
             </Link>
           </h1>
         </div>
