@@ -5,8 +5,8 @@ import headerStyles from "../styles/components/header.module.scss"
 export default function Header(props) {
   return (
     <header
-      className={`${headerStyles.header} ${props.page === 'connect' &&
-        headerStyles.connect_page}`}
+      className={`${headerStyles.header} ${props.page === 'info' &&
+        headerStyles.info_page}`}
     >
       <nav
         className={headerStyles.header__nav}
@@ -20,15 +20,15 @@ export default function Header(props) {
           <h1>
             <Link
               to={
-                props.page === 'connect'
+                props.page === 'info'
                   ? "/"
-                  : "/connect"
+                  : "/info"
               }
               activeClassName={headerStyles.navItemActive}
             >
-              {props.page === 'connect'
+              {props.page === 'info'
                 ? "close"
-                : "connect"}
+                : "info"}
             </Link>
           </h1>
         </div>
