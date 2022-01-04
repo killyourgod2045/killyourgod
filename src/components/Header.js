@@ -31,9 +31,6 @@ export default function Header(props) {
                 : "connect"}
             </Link>
           </h1>
-          <Link to="https://killyourgod.ai">
-          <h1>shop</h1>
-          </Link>
         </div>
       </nav>
     </header>
