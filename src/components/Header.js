@@ -32,7 +32,7 @@ export default function Header(props) {
             </Link>
           </h1>
           <Link to="https://killyourgod.ai">
-          <h1>SHOP</h1>
+          <h1>shop</h1>
           </Link>
         </div>
       </nav>
